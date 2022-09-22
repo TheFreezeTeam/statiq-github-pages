@@ -303,3 +303,5 @@ GeneratedCode/
 
 # Tye intermediate files
 .tye/
+/MyGenerator/output/
+/MyGenerator/cache/
